@@ -1,4 +1,5 @@
 Hello world!
+This line is before the second line --Ben.
 This is a second line in the file
 Hi, my name is Anne!
 And I'm Ben!
